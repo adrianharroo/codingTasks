@@ -1,0 +1,10 @@
+.totalPrice {
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+}
+
+.totalPrice h2 {
+    font-size: 20px;
+    color: white;
+}

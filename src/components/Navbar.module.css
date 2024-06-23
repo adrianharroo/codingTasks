@@ -1,0 +1,16 @@
+/* Navbar.module.css */
+.navbarContainer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    background-color: hsl(0, 0%, 15%);
+    gap: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+.navLink {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
