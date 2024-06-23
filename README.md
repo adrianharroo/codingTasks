@@ -1,10 +1,17 @@
 # Task 20 - React - Routing
 
+## Table of Contents
+
+- [About](#about)
+- [How to use](#how-to-use)
+
 ## About
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 It's a simple web app used to practice the concept of Routing in React. It is an e-commerce website with a login page, about page, and catalogue page. React Routing is essential in building any type of React application as it allows the user to navigate the website. 
+
+![Screenshot of the About page](public/shopImg1.jpg)
 
 ## How to use
 
