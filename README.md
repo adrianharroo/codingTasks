@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [How to use](#how-to-use)
+- [Credits](#credits)
 
 ## About
 
@@ -31,3 +32,6 @@ npm start
 The React App should've now started on port 3000.
 
 ### Happy Coding!
+
+## Credits
+[Adrian Harroo](https://github.com/adrianharroo/)
